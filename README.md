@@ -1,2 +1,2 @@
 # fcc assignment
-rajput web app deployment on Azure
+website deployment on azure in cloud
